@@ -8,7 +8,7 @@ In this project, we have used the Bank Marketing dataset to train a machine lear
 
 Below is a high-level diagram of the architecture used for this project.  
 
-<img src = "mlpipeline3/Images/image1.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image1.png"> </img>
 
 
 These are the steps that are going to go through to complete the operational objectives of the lab.
