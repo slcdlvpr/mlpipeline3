@@ -22,8 +22,6 @@ These are the steps that are going to go through to complete the operational obj
 
 **Ways to Improve the project** 
 
-
-
 1. Create a frontend to allow interaction with the endpoints that would allow better interaction then command-line script
 2. Review logs and application insights to see performance and refine the application. 
 
@@ -55,7 +53,6 @@ The below images shows the dataset used, the completion status of the experiment
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image3.png"> </img>
 
 
-
 AutoML Best Model Explanation. 
 
 
@@ -64,7 +61,6 @@ AutoML Best Model Explanation.
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image5.png"> </img>
 
-Step 3 
 
 Deploy Model.
 
@@ -92,7 +88,7 @@ Azure provides a swagger.json automatically that is used by the swagger containe
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image9.png"> </img>
 
 
-Endpoint JSON payload** **
+Endpoint JSON payload
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image10.png"> </img>
 
@@ -107,8 +103,6 @@ We use the provided Python script to consume the endpoint.  The script was sligh
 In this step, we have used python SDK to create and publish the pipeline.  This allows us to make the pipeline process repeatable and operationalizes the pipeline process.
 
 We can see that:
-
-
 
 *   Pipeline scheduled run details
 *   Pipeline has been successfully created
