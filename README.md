@@ -53,7 +53,6 @@ The below images shows the dataset used, the completion status of the experiment
 
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image3.png"> </img>
-            
 
 
 
