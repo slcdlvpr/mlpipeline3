@@ -53,6 +53,7 @@ The below images shows the dataset used, the completion status of the experiment
 
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image3.png"> </img>
+            
 
 
 
@@ -62,10 +63,7 @@ AutoML Best Model Explanation.
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image4.png"> </img>
 
 
-
-
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image5.png"> </img>
-
 
 Step 3 
 
@@ -75,22 +73,15 @@ In this step, we take the most accurate model and make it available to a secured
 
 Deployed endpoint details 
 
-
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image6.png"> </img>
-
-
 
 Show application insights enabled 
 
-
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image7.png"> </img>
-
 
 Logging turned on 
 
-
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image8.png"> </img>
-
 
 **Swagger**
 
@@ -128,22 +119,13 @@ We can see that:
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image12.png"> </img>
 
-
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image13.png"> </img>
-
-
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image14.png"> </img>
 
-
-
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image15.png"> </img>
 
-
-
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image16.png"> </img>
-
-
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image17.png"> </img>
 
