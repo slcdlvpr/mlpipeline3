@@ -59,10 +59,10 @@ The below images shows the dataset used, the completion status of the experiment
 AutoML Best Model Explanation. 
 
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image4.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image4.png"> </img>
+           
 
-
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image5.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image5.png"> </img>
 
 Step 3 
 
@@ -72,15 +72,15 @@ In this step, we take the most accurate model and make it available to a secured
 
 Deployed endpoint details 
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image6.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image6.png"> </img>
 
 Show application insights enabled 
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image7.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image7.png"> </img>
 
 Logging turned on 
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image8.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image8.png"> </img>
 
 **Swagger**
 
@@ -89,17 +89,17 @@ In this step, we will use swagger to interact with the endpoint.  Swagger allows
 Azure provides a swagger.json automatically that is used by the swagger container to produce a website that documents the HTTP endpoint for a deployed model.
 
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image9.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image9.png"> </img>
 
 
 Endpoint JSON payload** **
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image10.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image10.png"> </img>
 
 
 We use the provided Python script to consume the endpoint.  The script was slightly modified to include the url and key for our new endpoint. The screen shot below shows the response from the endpoint. 
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image11.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image11.png"> </img>
 
 
 **Pipeline Creation and Deployment**
@@ -116,17 +116,17 @@ We can see that:
 *   Pipeline step details
 
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image12.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image12.png"> </img>
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image13.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image13.png"> </img>
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image14.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image14.png"> </img>
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image15.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image15.png"> </img>
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image16.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image16.png"> </img>
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image17.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image17.png"> </img>
 
 
 **Screen Recording **
