@@ -126,26 +126,26 @@ We can see that:
 *   Pipeline step details
 
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/images/image12.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image12.png"> </img>
 
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/images/image13.png"> </img>
-
-
-
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/images/image14.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image13.png"> </img>
 
 
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/images/image15.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image14.png"> </img>
 
 
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/images/image16.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image15.png"> </img>
 
 
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/images/image17.png"> </img>
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image16.png"> </img>
+
+
+
+<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image17.png"> </img>
 
 
 **Screen Recording **
