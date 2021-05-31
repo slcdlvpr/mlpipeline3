@@ -95,6 +95,9 @@ Azure provides a swagger.json automatically that is used by the swagger containe
 ![swagger](Images/Image9.png)
 
 
+Swagger responses for the model 
+
+![swagger](Images/Image18.png)
 
 Endpoint JSON payload
 ![payload](Images/Image10.png)
