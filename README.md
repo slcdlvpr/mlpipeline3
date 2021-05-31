@@ -99,10 +99,10 @@ Swagger responses for the model
 
 ![swagger](Images/Image18.JPG)
 
-<p>
-Endpoint JSON payload
+
+# Endpoint JSON payload
 ![payload](Images/Image10.png)
-</p>
+
 
 We use the provided Python script to consume the endpoint.  The script was slightly modified to include the url and key for our new endpoint. The screen shot below shows the response from the endpoint. 
 
