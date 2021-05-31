@@ -53,17 +53,17 @@ The below images shows the dataset used, the completion status of the experiment
 
 
 ![Run Completed](Images/Image3.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image3.png"> </img>
+
 
 
 # AutoML Best Model Explanation. 
 
 ![AutoML Best](Images/Image4.png)
 
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image4.png"> </img>
+
            
 ![Model Explanation](Images/Image5.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image5.png"> </img>
+
 
 
 # Deploy Model.
@@ -73,18 +73,18 @@ In this step, we take the most accurate model and make it available to a secured
 Deployed endpoint details 
 
 ![endpoint](Images/Image6.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image6.png"> </img>
+
 
 # Show application insights enabled 
 
 ![application insights](Images/Image7.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image7.png"> </img>
+
 
 # Logging turned on 
 
 
 ![Logging](Images/Image8.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image8.png"> </img>
+
 
 # Swagger 
 
@@ -93,18 +93,18 @@ In this step, we will use swagger to interact with the endpoint.  Swagger allows
 Azure provides a swagger.json automatically that is used by the swagger container to produce a website that documents the HTTP endpoint for a deployed model.
 
 ![swagger](Images/Image9.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image9.png"> </img>
+
 
 
 Endpoint JSON payload
 ![payload](Images/Image10.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image10.png"> </img>
+
 
 
 We use the provided Python script to consume the endpoint.  The script was slightly modified to include the url and key for our new endpoint. The screen shot below shows the response from the endpoint. 
 
 ![endpoint](Images/Image11.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image11.png"> </img>
+
 
 
 # Pipeline Creation and Deployment 
@@ -119,17 +119,17 @@ We can see that:
 *   Pipeline step details
 
 ![Pipeline](Images/Image12.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image12.png"> </img>
+
 ![Pipeline1](Images/Image131.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image13.png"> </img>
+
 ![Pipeline2](Images/Image141.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image14.png"> </img>
+
 ![Pipeline3](Images/Image15.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image15.png"> </img>
+
 ![Pipeline4](Images/Image16.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image16.png"> </img>
+
 ![Pipeline5](Images/Image17.png)
-<img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image17.png"> </img>
+
 
 
 # Screen Recording
