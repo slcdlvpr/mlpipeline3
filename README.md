@@ -25,7 +25,7 @@ These are the steps that are going to go through to complete the operational obj
 1. Create a frontend to allow interaction with the endpoints that would allow better interaction then command-line script
 2. Review logs and application insights to see performance and refine the application. 
 
-**Key Steps** 
+# Key Steps  
 
 <span style="text-decoration:underline;">Authentication</span>
 
@@ -36,7 +36,7 @@ These are the steps that are going to go through to complete the operational obj
 
 We download and register the dataset so that we can setup and run AutoML.
 
-**Registered Datasets**
+# Registered Datasets 
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image2.png"> </img>
 
@@ -53,7 +53,7 @@ The below images shows the dataset used, the completion status of the experiment
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image3.png"> </img>
 
 
-AutoML Best Model Explanation. 
+# AutoML Best Model Explanation. 
 
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image4.png"> </img>
@@ -62,7 +62,7 @@ AutoML Best Model Explanation.
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image5.png"> </img>
 
 
-Deploy Model.
+# Deploy Model.
 
 In this step, we take the most accurate model and make it available to a secured REST endpoint that we will later consume with a Python script.   We also enable application insights on the endpoint so that we can observe performance and errors that might be encountered by end users.
 
@@ -78,7 +78,7 @@ Logging turned on
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image8.png"> </img>
 
-**Swagger**
+# Swagger 
 
 In this step, we will use swagger to interact with the endpoint.  Swagger allows us to document the endpoint and show a template that can be used to make REST calls to the endpoint. 
 
@@ -98,7 +98,7 @@ We use the provided Python script to consume the endpoint.  The script was sligh
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image11.png"> </img>
 
 
-**Pipeline Creation and Deployment**
+# Pipeline Creation and Deployment 
 
 In this step, we have used python SDK to create and publish the pipeline.  This allows us to make the pipeline process repeatable and operationalizes the pipeline process.
 
@@ -123,6 +123,6 @@ We can see that:
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image17.png"> </img>
 
 
-Screen Recording
+# Screen Recording
 
 [https://vimeo.com/556066677/99cabdb63d](https://vimeo.com/556066677/99cabdb63d) 
