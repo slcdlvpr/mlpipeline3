@@ -123,9 +123,9 @@ We can see that:
 
 ![Pipeline](Images/Image12.png)
 
-![Pipeline1](Images/Image131.png)
+![Pipeline1](Images/Image13.png)
 
-![Pipeline2](Images/Image141.png)
+![Pipeline2](Images/Image14.png)
 
 ![Pipeline3](Images/Image15.png)
 
