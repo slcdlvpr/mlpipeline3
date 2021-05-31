@@ -124,13 +124,15 @@ We can see that:
 
 ![Pipeline](Images/Image19.JPG)
 
+![Pipeline1](Images/Image12.png)
+
 ![Pipeline1](Images/Image13.png)
 
 ![Pipeline2](Images/Image14.png)
 
 ![Pipeline3](Images/Image15.png)
 
-![Pipeline4](Images/Image16.png)
+![Pipeline4](Images/Image20.JPG)
 
 ![Pipeline5](Images/Image17.png)
 
