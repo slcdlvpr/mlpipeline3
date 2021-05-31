@@ -7,6 +7,7 @@ In this project, we have used the Bank Marketing dataset to train a machine lear
  # Architecture Overview
 
 Below is a high-level diagram of the architecture used for this project.  
+![architecture diagram](Images/image1.png) 
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/image1.png"> </img>
            
@@ -70,11 +71,11 @@ Deployed endpoint details
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image6.png"> </img>
 
-Show application insights enabled 
+# Show application insights enabled 
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image7.png"> </img>
 
-Logging turned on 
+# Logging turned on 
 
 <img src = "https://github.com/slcdlvpr/mlpipeline3/blob/main/Images/Image8.png"> </img>
 
