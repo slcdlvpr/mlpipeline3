@@ -1,10 +1,10 @@
 
 
-**Operationalizing Machine Learning**
+# Operationalizing Machine Learning
 
 In this project, we have used the Bank Marketing dataset to train a machine learning model using AutoML feature of Azure Machine Learning Studio.  We will then later configure it for pipeline production.  We will host it in an Azure Container Instance and later test it using REST endpoints. 
 
-**Architecture Overview**
+ # Architecture Overview
 
 Below is a high-level diagram of the architecture used for this project.  
 
@@ -20,7 +20,7 @@ These are the steps that are going to go through to complete the operational obj
 5. REST endpoint testing utilizing Python script.  We use JSON payload to test and consume the endpoint.
 6. We use Python SDK to create a pipeline and publish it 
 
-**Ways to Improve the project** 
+# Ways to Improve the project
 
 1. Create a frontend to allow interaction with the endpoints that would allow better interaction then command-line script
 2. Review logs and application insights to see performance and refine the application. 
