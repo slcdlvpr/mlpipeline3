@@ -117,6 +117,7 @@ In this step, we have used python SDK to create and publish the pipeline.  This 
 We can see that:
 
 *   Pipeline scheduled run details
+*   Pipeline run details
 *   Pipeline has been successfully created
 *   Pipeline REST endpoint in an active state
 *   Pipeline step details
