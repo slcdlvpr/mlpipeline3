@@ -121,7 +121,7 @@ We can see that:
 *   Pipeline REST endpoint in an active state
 *   Pipeline step details
 
-![Pipeline](Images/Image19.png)
+![Pipeline](Images/Image19.JPG)
 
 ![Pipeline1](Images/Image13.png)
 
